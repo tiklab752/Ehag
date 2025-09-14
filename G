@@ -1,0 +1,13 @@
+{
+  "apk_size": "1.10 MB",
+  "telegram_url": "https://t.me/example",
+  "apk_url": "https://dl.NoGutsNoGlory.eu.org/1667533/app-release.apk?hash=BpYIq6l",
+  "version_code": 24799999,
+  "force_update": false,
+  "popup_text": {
+    "title": "Create by Bad boy",
+    "extra": "This is additional info.",
+    "additional": "For more updates, join our Telegram group."
+  },
+  "update_date": "Jun 03, 2025"
+}
