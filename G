@@ -1,11 +1,11 @@
 {
   "Title": "New Update Available",
-  "versionCode": "1",
-  "versionName": "1.0",
+  "versionCode": "2",
+  "versionName": "2.0",
   "updateSize": "36 MB",
-  "releaseDate": "July 15, 2025",
+  "releaseDate": "sept 15, 2025",
   "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
-  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
+  "downloadLink": "https://www.dropbox.com/scl/fi/4mn27v7ad75pnnnxe3f1c/Crunchyroll_2.0_sign.apk?rlkey=hgi26vfk73f6osd4mc1nrhlh4&st=pk98bcz5&dl=1",
   "Browser link": "https://www.designlabofficial.site/p/download.html",
   "forceUpdate": true,
   "Direct Function": true
