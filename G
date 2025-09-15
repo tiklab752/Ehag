@@ -1,13 +1,12 @@
 {
-  "apk_size": "1.10 MB",
-  "telegram_url": "https://t.me/example",
-  "apk_url": "https://dl.NoGutsNoGlory.eu.org/1667533/app-release.apk?hash=BpYIq6l",
-  "version_code": 24799999,
-  "force_update": false,
-  "popup_text": {
-    "title": "Create by Bad boy",
-    "extra": "This is additional info.",
-    "additional": "For more updates, join our Telegram group."
-  },
-  "update_date": "Jun 03, 2025"
+  "Title": "New Update Available",
+  "versionCode": "11",
+  "versionName": "1.0.5",
+  "updateSize": "36 MB",
+  "releaseDate": "July 15, 2025",
+  "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
+  "downloadLink": "https://dl.NoGutsNoGlory.eu.org/1931554/Breaker+VPN_1.0.5+clean_sign.apk?hash=4jBHSYu",
+  "Browser link": "https://www.designlabofficial.site/p/download.html",
+  "forceUpdate": true,
+  "Direct Function": true
 }
