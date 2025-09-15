@@ -1,6 +1,6 @@
 {
   "Title": "New Update Available",
-  "versionCode": "2",
+  "versionCode": "1",
   "versionName": "2.0",
   "updateSize": "36 MB",
   "releaseDate": "sept 15, 2025",
