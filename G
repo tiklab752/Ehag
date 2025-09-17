@@ -1,7 +1,7 @@
 {
   "Title": "New Update Available",
-  "versionCode": "1",
-  "versionName": "1.0",
+  "versionCode": "421001246",
+  "versionName": "3.0.421.1246",
   "updateSize": "36 MB",
   "releaseDate": "sept 15, 2025",
   "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
