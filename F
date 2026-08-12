@@ -1,6 +1,6 @@
 {
-  "versionCode": 1271,
-  "versionName": "1.2.8",
+  "versionCode": 999999,
+  "versionName": "9999.999",
   "title": "New version available",
   "description": "Bug fixes, new UI, and anti-ban improvements.",
   "apkUrl": "YOUR_APK_URL",
