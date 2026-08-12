@@ -3,7 +3,7 @@
   "versionName": "9999.999",
   "title": "New version available",
   "description": "Bug fixes, new UI, and anti-ban improvements.",
-  "apkUrl": "YOUR_APK_URL",
+  "apkUrl": "https://www.dropbox.com/scl/fi/3p8syq2nhk0nkuxhegh62/NBA-2K20-v98-0-2_signmanual.apk?rlkey=z7dujpphlcphknq020dokim9k&st=z20kvctq&dl=1",
   "forceUpdate": true,
   "showUpdate": true
 }
