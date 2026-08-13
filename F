@@ -1,9 +1,9 @@
 {
   "versionCode": 98,
   "versionName": "98.0.2",
-  "title": "New version available",
+  "title": "New Updated OBB/APK!",
   "description": "Bug fixes, new UI, and anti-ban improvements.",
-  "apkUrl": "https://www.dropbox.com/scl/fi/3p8syq2nhk0nkuxhegh62/NBA-2K20-v98-0-2_signmanual.apk?rlkey=z7dujpphlcphknq020dokim9k&st=z20kvctq&dl=1",
+  "apkUrl": "https://www.dropbox.com/scl/fi/lcscs5wr72hzxldsv1pg3/NBA-2K27_98.0.2.apk?rlkey=p3wvtofe3wk02ut4wkxnhtp38&st=v6h04izv&dl=1",
   "forceUpdate": false,
   "showUpdate": true,
   "Cancel": true
