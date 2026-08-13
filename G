@@ -1,12 +1,12 @@
 {
   "Title": "New Update Available",
-  "versionCode": "",
-  "versionName": "",
+  "versionCode": "1",
+  "versionName": "1",
   "updateSize": "63.21 MB",
   "releaseDate": "sept 17, 2025",
   "Msg": "This update includes:\n\n- Performance improvements\n- Bug fixes\n- New feature: Dark Mode\n- Enhanced security features",
   "downloadLink": "https://www.dropbox.com/scl/fi/kckuy6wjzfd9ueqwd3j68/Crunchyroll_By_Juris_v2.apk?rlkey=7brab793kzk4h5hiifpg8zbsb&st=xoe25d08&dl=1",
   "Browser link": "https://www.designlabofficial.site/p/download.html",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "Direct Function": true
 }
