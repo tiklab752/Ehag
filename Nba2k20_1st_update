@@ -4,7 +4,7 @@
   "title": "New Update has arrived!",
   "description": "Bug fixes, new UI, and anti-ban improvements.",
   "apkUrl": "https://www.dropbox.com/scl/fi/bammkgg4qxfvzhd3nviwp/NBA-2K27_98.0.2.apk?rlkey=4t58s6ptbczauxf2hi54nf7vn&st=iry1p780&dl=1",
-  "forceUpdate": false,
-  "showUpdate": false,
-  "Cancel": true
+  "forceUpdate": true,
+  "showUpdate": true,
+  "Cancel": false
 }
