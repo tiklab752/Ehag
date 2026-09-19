@@ -5,6 +5,6 @@
   "description": "Bug fixes, new UI, and anti-ban improvements.",
   "apkUrl": "https://www.dropbox.com/scl/fi/993bhwzfibxe2jjaw6fts/NBA2K27-V2.apk?rlkey=mxfkkkl8ovvrednz88hg45ldi&st=bbk20b6r&dl=1",
   "forceUpdate": true,
-  "showUpdate": true,
+  "showUpdate": false,
   "Cancel": false
 }
