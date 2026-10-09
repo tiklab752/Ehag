@@ -6,5 +6,5 @@
   "apkUrl": "https://www.dropbox.com/scl/fi/p1txb1acc41ae7oc08dvk/songhubupdate.apk?rlkey=fn2yd3hlb5klt56tx4vn7i7nk&st=qy4co76g&dl=1",
   "forceUpdate": true,
   "showUpdate": true,
-  "Cancel": true
+  "Cancel": false
 }
