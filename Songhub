@@ -1,0 +1,9 @@
+{
+  "versionCode": 302,
+  "versionName": "3.2.0.0",
+  "title": "New version available",
+  "description": "Bug fixes, new UI, and anti-ban improvements.",
+  "apkUrl": "YOUR_APK_URL",
+  "forceUpdate": true,
+  "showUpdate": true
+}
